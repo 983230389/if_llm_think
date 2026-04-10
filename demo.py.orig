@@ -1,0 +1,5 @@
+print(">>> Target program started! <<<")
+x = 10
+for i in range(3):
+    x = x + i
+print(f">>> Target program finished, x is: {x} <<<")

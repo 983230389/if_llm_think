@@ -1,0 +1,44 @@
+
+========================================
+🚀 [__init__] 分析模块被成功实例化！
+
+========================================
+🚀 [__init__] 分析模块被成功实例化！
+
+========================================
+🚀 [__init__] 分析模块被成功实例化！
+🟢 [write] 拦截到变量写入！参数个数: 2
+❌ [write] 提取变量时报错: 'str' object has no attribute 'ast_nodes'
+Traceback (most recent call last):
+  File "D:\pycode\empirical\analysis.py", line 23, in write
+    node = dyn_ast.ast_nodes[iid]
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'ast_nodes'
+
+🟢 [write] 拦截到变量写入！参数个数: 2
+❌ [write] 提取变量时报错: 'str' object has no attribute 'ast_nodes'
+Traceback (most recent call last):
+  File "D:\pycode\empirical\analysis.py", line 23, in write
+    node = dyn_ast.ast_nodes[iid]
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'ast_nodes'
+
+🟢 [write] 拦截到变量写入！参数个数: 2
+❌ [write] 提取变量时报错: 'str' object has no attribute 'ast_nodes'
+Traceback (most recent call last):
+  File "D:\pycode\empirical\analysis.py", line 23, in write
+    node = dyn_ast.ast_nodes[iid]
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'ast_nodes'
+
+🟢 [write] 拦截到变量写入！参数个数: 2
+❌ [write] 提取变量时报错: 'str' object has no attribute 'ast_nodes'
+Traceback (most recent call last):
+  File "D:\pycode\empirical\analysis.py", line 23, in write
+    node = dyn_ast.ast_nodes[iid]
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'ast_nodes'
+
+🏁 [end_execution] 执行到达结束阶段
+💾 准备将 0 个变量写入: original_local\manual_test.txt
+✅ 文件写入成功！
